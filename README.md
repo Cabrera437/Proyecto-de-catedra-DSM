@@ -47,7 +47,7 @@ GalleryGenius Aún continua en desarrollo, espera  publicaciónes y nuevas notic
 
 🟢[**Enlace a Trello 🖊️**](https://trello.com/b/lhxX39H5)
 
-🔵[**Perfil del Proyecto 📗**](https://github.com/Cabrera437/Proyecto-de-catedra-DSM/blob/master/Fase%201%20Proyecto%20de%20DSM%20.pdf)
+🔵[**Perfil del Proyecto 📗**](https://drive.google.com/file/d/14qUuixzM9CU2iLxB31I45XY2SdiuLp5G/view?usp=sharing)
 
 
 <br>
