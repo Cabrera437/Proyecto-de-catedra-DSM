@@ -49,7 +49,7 @@ GalleryGenius Aún continua en desarrollo, espera  publicaciónes y nuevas notic
 
 🔵[**Perfil del Proyecto 📗**](https://drive.google.com/file/d/14qUuixzM9CU2iLxB31I45XY2SdiuLp5G/view?usp=sharing)
 
-🔵[**Manuales 📗**](https://github.com/Cabrera437/Proyecto-de-catedra-DSM/tree/master/Manuales)
+🟢[**Manuales 📗**](https://github.com/Cabrera437/Proyecto-de-catedra-DSM/tree/master/Manuales)
 
 
 <br>
