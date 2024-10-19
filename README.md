@@ -45,11 +45,11 @@ GalleryGenius Aún continua en desarrollo, espera  publicaciónes y nuevas notic
 ## 📝 Archivos Importantes
 🔴[**Diseño de los Mock Ups 🖌**](https://www.figma.com/design/Dxqv9KMfVSPMEjloIrW9x0/DSM-PROYECTO-CATEDRA-DISE%C3%91OS?node-id=0-1&t=zYOxJ1Uvja7JQGzF-1)<br>
 
-🟢[**Enlace a Trello 🖊️**](https://trello.com/b/lhxX39H5)
+🔴[**Enlace a Trello 🖊️**](https://trello.com/b/lhxX39H5)
 
-🔵[**Perfil del Proyecto 📗**](https://drive.google.com/file/d/14qUuixzM9CU2iLxB31I45XY2SdiuLp5G/view?usp=sharing)
+🟢[**Perfil del Proyecto 📗**](https://drive.google.com/file/d/14qUuixzM9CU2iLxB31I45XY2SdiuLp5G/view?usp=sharing)
 
-🟢[**Manuales 📗**](https://github.com/Cabrera437/Proyecto-de-catedra-DSM/tree/master/Manuales)
+🔵[**Manuales 📘**](https://github.com/Cabrera437/Proyecto-de-catedra-DSM/tree/master/Manuales)
 
 
 <br>
