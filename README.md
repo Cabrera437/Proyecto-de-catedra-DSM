@@ -1,9 +1,12 @@
 # 📱DSM441 G01T
 
 <br>
+<div align="center">
+  
+ ### 🔵🔴Repositorio de desarrollo de GalleryGenius nuestra aplicacion movil 👋🏻  🔴🔵**
+</div>
 
-# 🔴🔵 GalleryGenius
-Bienvenido al repositorio de desarrollo de GalleryGenius nuestra aplicacion movil 👋🏻
+---
 
 <br>
 
@@ -64,6 +67,12 @@ GalleryGenius Aún continua en desarrollo, espera  publicaciónes y nuevas notic
 GalleryGenius está bajo la licencia de Creative commons CC BY-NC-ND 4.0
 <br>
 
+
+<div align="center">
+
+### 🌟 **Gracias por visitar el repositorio de GalleryGenius  ** 🌟
+
+</div>
 
 
 
